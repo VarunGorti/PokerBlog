@@ -1,3 +1,9 @@
+---
+title: "Hand Breakdown #1 - 12/23/2025"
+date: 2025-12-23
+draft: false
+---
+
 # Hand Breakdown #1 - 12/23/2025
 
 After reading Avi's recent blog, I got inspired to set up my own webpage and start writing about poker.
