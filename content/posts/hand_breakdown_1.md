@@ -36,11 +36,7 @@ Villian seems like a spewing fish, but we don't really have a hand, so we need t
 
 Astute readers will realize that villian has clearly spent time looking at the GTOWizard 3b SB vs BTN aggregated flop reports, and **is thus a reg**. I know this because I *also* value my time little enough to have spent time looking at these reports (despite the term *reg* being a generous way to describe me in this pool). Playing this size on this board has little-to-no practical effect on anything resembling winrate, but once you see it once you remember it forever. You the reader will now also remember that **on JTX boards, the OOP 3-bettor can sometimes play flop shoves.**
 
-![SBvsBTN 3BP Aggregate Flop Report](/images/hand_breakdown_1/sb_btn_3bp_flop_report.png)
-<figure>
-  <img src="/images/hand_breakdown_1/sb_btn_3bp_flop_report.png" alt="SBvsBTN 3BP Aggregate Flop Report">
-  <figcaption>If you aren't familiar with looking at these flop reports: the x-axis represents all the possible flops, the y-axis represents betting frequencies for the whole SB range. Different colors represent different sizings, with the darker colors being larger and the green being check. The darkest purple here only shows up in one spot, and it stands out! Those are the JTx boards. That's all you need to understand here.</figcaption>
-</figure>
+![SBvsBTN 3BP Aggregate Flop Report](/static/images/hand_breakdown1/)
 
 Why?
 
@@ -70,14 +66,14 @@ I thought hero was going to need to call a reasonably wide fraction of their ran
 * Does pretty well against the bluffs (74% / 57% against the two listed above)
 * Blocks value
 
-![Hand Solve](/images/hand_breakdown_1/hand_solve.png)
+![GTOWizard Solve](/image/sample.webp)
 
 Broad strokes, the above is pretty much correct! It seems like the exact bluff combos differ a bit, with the solver preferring hands like <span style="color: red;">A♥</span><span style="color: black;">Q♠</span>, but that feels like a minor difference.
 
 
 But wait... my hand is indifferent, somewhat reasonable to call, yet **mostly a fold**. Solver seems to clearly prefer calling a number of Tx combos. What went wrong? 
 
-![AQ hand actions](/images/hand_breakdown_1/AQ_hand_actions.png)
+![AQ hand actions](/image/sample.webp)
 
 ## The solver is an absolute beast
 Everything I said above was correct, except:
