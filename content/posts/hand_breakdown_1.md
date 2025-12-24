@@ -4,8 +4,6 @@ date: 2025-12-23
 draft: false
 ---
 
-# Hand Breakdown #1 - 12/23/2025
-
 After reading Avi's recent blog, I got inspired to set up my own webpage and start writing about poker.
 
 The very half-baked conception was to set some sort of measurable goal and document my personal progression as a poker player as I work towards achieving it. Still a WIP, but the current intention is to write a slightly more structured series of posts where I discuss different poker themes and my understanding of the game. I'll include some technical concepts, maybe log my results, and spend some time on meta-topics like "what should I study next", "how complex should I strive to make my game", "what's the right way to isolate improvement", etc. It's not clear to me that this will be of any interest to others, but I'm thinking of it as a poker diary that happens to be public, and as such want it to include more stuff than just hand histories. Earlier this morning I started writing out a draft of an intro page detailing this plan.
@@ -15,7 +13,7 @@ Then, as one does, I got distracted and started playing some poker. I proceeded 
 Here is the first installment in that series:
 
 ---
-## The Hand
+# The Hand
 
 
 $100NL ACR Blitz
@@ -28,7 +26,7 @@ $100NL ACR Blitz
 
 ---
 
-## Analysis
+# Analysis
 
 What? Why is this a hand breakdown?
 
@@ -38,7 +36,7 @@ Villian seems like a spewing fish, but we don't really have a hand, so we need t
 
 ---
 
-### Context
+## Context
 
 Some readers will realize that this shove means villian has clearly spent time looking at the GTOWizard 3b SB vs BTN aggregated flop reports, and **is thus a reg**. I know this because I *also* value my time little enough to have spent time looking at these reports (despite the term *reg* being a generous way to describe me in this pool). Playing this size on this board has little-to-no practical effect on anything resembling winrate, but once you see it once you remember it forever, and it's fancy, so you just do it. You the reader will now also remember that **on JTX boards, the OOP 3-bettor can usually play some flop shoves.**
 
@@ -65,7 +63,7 @@ It turns out that simply shoving is much better than geometric size, because all
 
 *Aside: I'm too lazy to calculate it, but I suspect the optimal strategy with the ranges outlined above would involve a 2-street betting plan for range 1*
 
-### Back to the actual hand
+## Back to the actual hand
 
 Without having looked at these boards thoroughly before, my assumption was that the opponent's range was quite tight and centered around 2 regions:
 1. Vulnerable high-equity made hands: <span style="color: black;">A♠</span><span style="color: black;">J♠</span> / <span style="color: red;">Q♥</span><span style="color: red;">Q♦</span>. 
