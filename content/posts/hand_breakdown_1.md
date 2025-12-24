@@ -42,8 +42,6 @@ Villian seems like a spewing fish, but we don't really have a hand, so we need t
 
 Some readers will realize that this shove means villian has clearly spent time looking at the GTOWizard 3b SB vs BTN aggregated flop reports, and **is thus a reg**. I know this because I *also* value my time little enough to have spent time looking at these reports (despite the term *reg* being a generous way to describe me in this pool). Playing this size on this board has little-to-no practical effect on anything resembling winrate, but once you see it once you remember it forever, and it's fancy, so you just do it. You the reader will now also remember that **on JTX boards, the OOP 3-bettor can usually play some flop shoves.**
 
-
-![SBvsBTN 3BP Aggregate Flop Report](/images/hand_breakdown_1/sb_btn_3bp_flop_report.png)
 <figure>
   <img src="/images/hand_breakdown_1/sb_btn_3bp_flop_report.png" alt="SBvsBTN 3BP Aggregate Flop Report">
   <figcaption>If you aren't familiar with looking at these flop reports: the x-axis represents all the possible flops, the y-axis represents betting frequencies for the whole SB range. Different colors represent different sizings, with the darker colors being larger and the green being check. The darkest purple here only shows up in one spot, and it stands out! Those are the JTx boards. That's all you need to understand here.</figcaption>
